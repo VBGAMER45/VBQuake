@@ -1,0 +1,103 @@
+Console initialized.
+Exe: 22:03:34 Oct 24 2026
+execing quake.rc
+execing default.cfg
+"MOUSE5" isn't a valid key
+"PRINTSCREEN" isn't a valid key
+"ABUTTON" isn't a valid key
+"BBUTTON" isn't a valid key
+"LTRIGGER" isn't a valid key
+"LTHUMB" isn't a valid key
+"RTRIGGER" isn't a valid key
+"RTHUMB" isn't a valid key
+"RSHOULDER" isn't a valid key
+"LSHOULDER" isn't a valid key
+"YBUTTON" isn't a valid key
+"XBUTTON" isn't a valid key
+Unknown command "gl_texturemode"
+Unknown command "scr_conalpha"
+Unknown command "r_wateralpha"
+Unknown command "r_slimealpha"
+Unknown command "r_lavaalpha"
+Unknown command "r_telealpha"
+Unknown command "volume"
+Unknown command "gamma"
+Unknown command "contrast"
+Unknown command "sensitivity"
+Unknown command "crosshair"
+Unknown command "joy_enable"
+Unknown command "+mlook"
+Unknown command "topcolor"
+Unknown command "bottomcolor"
+Unknown command "serverinfo"
+Unknown command "set"
+Unknown command "if"
+execing default_$generic.cfg
+Unknown command "gl_texture_anisotropy"
+Unknown command "gl_overbright_models"
+Unknown command "vid_fsaa"
+Unknown command "vid_fsaamode"
+Unknown command "scr_pixelaspect"
+Unknown command "scr_crosshairscale"
+Unknown command "scr_menuscale"
+Unknown command "scr_conscale"
+Unknown command "scr_sbarscale"
+Unknown command "scr_sbaralpha"
+Unknown command "cl_alwaysrun"
+Unknown command "r_particles"
+Unknown command "r_waterwarp"
+Unknown command "r_viewmodel_quake"
+Unknown command "sv_autoload"
+Unknown command "cl_fakeshaft"
+Unknown command "gl_texturemode_viewmodels"
+Unknown command "r_lerpmuzzlehack"
+Unknown command "gl_texturemode_sky"
+Unknown command "gl_texturemode_hud"
+Unknown command "gl_overbright_model"
+Unknown command "gl_smoothfont"
+Unknown command "cl_stainmaps"
+Unknown command "cl_decals"
+Unknown command "cl_particles_quake"
+Unknown command "cl_beams_polygons"
+Unknown command "r_font_postprocess_mono"
+Unknown command "r_waterscroll"
+couldn't exec style_ironwail_modern.cfg
+execing config.cfg
+couldn't exec autoexec.cfg
+'mapversion' is not a field
+3 demo(s) in loop
+
+============================== 
+check out our commands 
+Zoom90 or Zoom120 for the zoom function 
+Dev for development bindings 
+Cam for the camera system we use for the main menu demos 
+============================== 
+
+============================== 
+LibreQuake Version V0.09-beta 
+============================== 
+Unknown command "-showscores"
+Unknown command "-jump"
+Unknown command "-moveleft"
+Unknown command "-movedown"
+Unknown command "-moveright"
+Unknown command "-moveup"
+Unknown command "-back"
+Unknown command "-forward"
+Unknown command "-strafe"
+Unknown command "-movedown"
+Unknown command "-speed"
+Unknown command "-attack"
+Unknown command "-jump"
+Unknown command "-moveup"
+Unknown command "-moveright"
+Unknown command "-movedown"
+Unknown command "-movedown"
+]edictcount
+num_edicts: 80
+active    : 79
+view      : 35
+touch     : 52
+step      :  0
+]quit
