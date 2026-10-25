@@ -12,6 +12,25 @@ statement by statement and compiled to a native Windows executable. It plays
 [LibreQuake](https://github.com/lavenderdotpet/LibreQuake), a free
 replacement for the Quake data, which is included in `id1/`.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/start-hub.png" width="49%" alt="The start map's entrance hall, under LibreQuake's sign: You are playing Episode 0, this should play well with WinQuake/DOSQuake">
+  <img src="docs/screenshots/e0m1-zombie.png" width="49%" alt="A zombie walks out of a canyon on lq_e0m1, the rocket launcher raised">
+</p>
+<p align="center">
+  <img src="docs/screenshots/e0m1-rocket.png" width="49%" alt="A rocket explodes against a canyon wall among gibs on lq_e0m1">
+  <img src="docs/screenshots/start-monitors.png" width="49%" alt="The start map's hall with monitors above the EASY door">
+</p>
+<p align="center">
+  <img src="docs/screenshots/main-menu.png" width="49%" alt="LibreQuake's main menu over the attract demo">
+  <img src="docs/screenshots/console.png" width="49%" alt="The console reads (QuakeVB) 1.09 over a demo">
+</p>
+
+The software renderer at 640×480 (`-width 640`), playing LibreQuake: the
+start map, the first level's canyon, the main menu, and the console with
+QuakeVB's version banner.
+
 ## Status
 
 | Part | State |
